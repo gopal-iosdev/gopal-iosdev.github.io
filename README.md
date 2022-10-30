@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there, My name is Gopal
 =============================================================================================================================
 
-* 👨🏻‍💻  I have been developing iOS apps for 7 years.
+* 👨🏻‍💻  I have been developing iOS apps for 7.5 years.
 * 🌍  I'm based in Jersey City, New Jersey.
 * ✉️  You can contact me at [gopal.iosdev@gmail.com](mailto:gopal.iosdev@gmail.com)
 * 🚀 I'm currently working as Sr. iOS Engineer at [Epic!](http://apps.apple.com/us/app/epic-books-for-kids/id719219382)
